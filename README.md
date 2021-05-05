@@ -1,4 +1,4 @@
-# CS 1XA3 Project 02 - nabera
+# Personal Portfolio Website - Ayed Naber
 
 ## Overview
 This webpage is Ayed Naber's custom CV that contains all the technical experience and skills in the field of programming and computing, as well as the volunteering and extracirricular activities that have been done. It also contains the skills and qualifications for jobs in the Computer Science field. The website was designed using HTML, CSS, and JavaScript.
