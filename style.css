@@ -494,6 +494,17 @@ footer hr {
   font-family: 'Quicksand', sans-serif;
 }
 
+.tabcontent2
+{
+  float: left;
+  border: 1px solid #ccc;
+  border-left: none;
+  height: 350px;
+  padding: 0px 12px;
+  width: 70%;
+  font-family: 'Quicksand', sans-serif;
+}
+
 .tabcontent h3
 {
   font-family: 'Quicksand', sans-serif;
